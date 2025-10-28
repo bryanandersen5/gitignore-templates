@@ -1,0 +1,19 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
